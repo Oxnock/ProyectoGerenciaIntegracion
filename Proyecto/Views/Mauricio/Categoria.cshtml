@@ -1,0 +1,83 @@
+﻿@using SampleMvcApp.Models.Mauricio;
+@model SampleMvcApp.Models.Mauricio.Consulta
+@{
+    ViewData["Title"] = "Categoria";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Categoria</h2>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+    <style>
+
+        #myInput {
+            float: left;
+            margin-right: 60px;
+        }
+    </style>
+    @*<style>
+            p {
+                display: inline-block;
+                width: 100px;
+            }
+        </style>*@
+
+</head>
+<div>
+    <body>
+        <div class="container">
+            <div>
+                <input class="form-control" id="myInput" type="text" placeholder="Search..">
+                <button class="btn btn-primary  dropdown-toggle" type="button" data-toggle="dropdown">
+                    Dropdown Example
+                    <span class="caret"></span>
+                </button>
+            </div>
+            <br>
+
+            @*@foreach (GerenciaTaller.Models.Categoria categoria in Model.GetCategorias())
+                {*@
+            @foreach (SampleMvcApp.Models.Mauricio.Categoria categoria in Model.GetCategorias())
+            {
+                <div class="alert-info">
+
+                    <p><strong>Nombre: </strong>@categoria.GetNombre()</p>
+                    <p><strong>Descripcion: </strong>@categoria.GetDescripcion()</p>
+                    <p><strong>Familia: </strong>@categoria.GetFamilia().GetNombre()</p>
+                    @Html.ActionLink("Eliminar", "CategoriaEliminar", new { nombre = categoria.GetNombre() })
+                </div>
+                <hr />
+            }
+
+
+            <a class="btn btn-primary" href="#" role="button">Agregar</a>
+        </div>
+        <script>$(document).ready(function () {
+                $("#myInput").on("keyup", function () {
+                    var value = $(this).val().toLowerCase();
+                    $("#myTable tr").filter(function () {
+                        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+                    });
+                });
+            });</script>
+        <script>$(document).ready(function () {
+                $("#myInput").on("keyup", function () {
+                    var value = $(this).val().toLowerCase();
+                    $(".dropdown-menu li").filter(function () {
+                        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+                    });
+                });
+            });</script>
+
+    </body>
+</div>
+</html>

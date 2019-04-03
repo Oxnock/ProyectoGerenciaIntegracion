@@ -1,0 +1,215 @@
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.Views.dll
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.deps.json
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.json
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.dev.json
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csproj.CoreCompileInputs.cache
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cache
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfoInputs.cache
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfo.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.input.cache
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.output.cache
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorCoreGenerate.cache
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Claims.g.cshtml.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Profile.g.cshtml.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cache
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cs
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.Views.pdb
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\jsezu\Desktop\hhhh\quickstart\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.pdb
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.deps.json
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.json
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.dev.json
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.pdb
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.Views.dll
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.Views.pdb
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csprojAssemblyReference.cache
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csproj.CoreCompileInputs.cache
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cache
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfoInputs.cache
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfo.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.input.cache
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.output.cache
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorCoreGenerate.cache
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Claims.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Profile.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cache
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.Views.pdb
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.pdb
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.deps.json
+C:\Users\User\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\User\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.pdb
+C:\Users\User\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.Views.dll
+C:\Users\User\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.Views.pdb
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.input.cache
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.output.cache
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorCoreGenerate.cache
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Claims.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Profile.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.Views.pdb
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.pdb
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Edit.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\FORMINICIAL.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\User\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\ProfileView.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.deps.json
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.dev.json
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.pdb
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.Views.dll
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.Views.pdb
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csprojAssemblyReference.cache
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cache
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.input.cache
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.output.cache
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorCoreGenerate.cache
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Claims.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Profile.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Edit.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\FORMINICIAL.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\ProfileView.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.Views.pdb
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.pdb
+C:\Users\pc\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csproj.CopyComplete
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.deps.json
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.json
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.pdb
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.Views.dll
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.Views.pdb
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfo.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.input.cache
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.output.cache
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorCoreGenerate.cache
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Claims.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Profile.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Edit.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\FORMINICIAL.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\ProfileView.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cs
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.Views.pdb
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.pdb
+C:\Users\pc\Desktop\Gerencia de\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csproj.CopyComplete
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.deps.json
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.json
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.pdb
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.Views.dll
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\bin\Debug\netcoreapp2.1\SampleMvcApp.Views.pdb
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfo.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.input.cache
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.TagHelpers.output.cache
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorCoreGenerate.cache
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Claims.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Account\Profile.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Edit.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\FORMINICIAL.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\ProfileView.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.RazorTargetAssemblyInfo.cs
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.Views.pdb
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.pdb
+C:\Users\pc\Desktop\Gerencia de Macho1\Gerencia\01-login\obj\Debug\netcoreapp2.1\SampleMvcApp.csproj.CopyComplete
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Edit.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\FORMINICIAL.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Profile\ProfileView.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Mauricio\ServiciosAgregar.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Mauricio\Servicio.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Mauricio\ProductosAgregar.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Mauricio\Producto.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Mauricio\FamiliasAgregar.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Mauricio\Familia.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Mauricio\CategoriasAgregar.g.cshtml.cs
+C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Mauricio\Categoria.g.cshtml.cs
