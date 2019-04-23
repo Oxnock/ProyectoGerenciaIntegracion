@@ -213,3 +213,10 @@ C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\
 C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Mauricio\Familia.g.cshtml.cs
 C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Mauricio\CategoriasAgregar.g.cshtml.cs
 C:\Users\jsezu\Documents\GitHub\Gerencia\01-login\obj\Debug\netcoreapp2.1\Razor\Views\Mauricio\Categoria.g.cshtml.cs
+C:\Users\allan.gonzalez\Source\Repos\ProyectoGerenciaIntegracion\Proyecto\bin\Debug\netcoreapp2.1\SampleMvcApp.deps.json
+C:\Users\allan.gonzalez\Source\Repos\ProyectoGerenciaIntegracion\Proyecto\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.json
+C:\Users\allan.gonzalez\Source\Repos\ProyectoGerenciaIntegracion\Proyecto\bin\Debug\netcoreapp2.1\SampleMvcApp.runtimeconfig.dev.json
+C:\Users\allan.gonzalez\Source\Repos\ProyectoGerenciaIntegracion\Proyecto\obj\Debug\netcoreapp2.1\SampleMvcApp.csprojResolveAssemblyReference.cache
+C:\Users\allan.gonzalez\Source\Repos\ProyectoGerenciaIntegracion\Proyecto\obj\Debug\netcoreapp2.1\SampleMvcApp.AssemblyInfo.cs
+C:\Users\allan.gonzalez\Source\Repos\ProyectoGerenciaIntegracion\Proyecto\obj\Debug\netcoreapp2.1\SampleMvcApp.dll
+C:\Users\allan.gonzalez\Source\Repos\ProyectoGerenciaIntegracion\Proyecto\obj\Debug\netcoreapp2.1\SampleMvcApp.pdb
